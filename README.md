@@ -83,5 +83,5 @@ You are free to use, modify, and distribute this project.
 Found a bug? Want a new feature?
 Open an issue or drop a suggestion.
 
-> Made with ❤ for BCA learners by [#Raghav Gupta]
+> Made with ❤ for BCA learners by [Raghav Gupta]
 
