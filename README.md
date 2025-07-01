@@ -37,7 +37,6 @@ At the end of the quiz, users receive a final score based on their correct answe
 
 ![Quiz Screenshot]()
 
----
 
 ## ✨ Features
 
@@ -60,6 +59,8 @@ bca-quiz-app/ │ ├── index.html         # UI markup ├── style.css  
    git clone https://github.com/Raghav335/bca-quiz-app.git
 2. Open index.html in any browser.
 3. Play the quiz and get your score instantly.
+
+
 🙋‍♂ Contributing
 
 Contributions are welcome!
@@ -82,5 +83,5 @@ You are free to use, modify, and distribute this project.
 Found a bug? Want a new feature?
 Open an issue or drop a suggestion.
 
-> Made with ❤ for BCA learners by [Raghav Gupta]
+> Made with ❤ for BCA learners by [#Raghav Gupta]
 
