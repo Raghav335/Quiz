@@ -35,7 +35,7 @@ At the end of the quiz, users receive a final score based on their correct answe
 👉 *Live Preview:* [Coming Soon — Upload to GitHub Pages]  
 📸 *Screenshot:*
 
-![Quiz Screenshot](Quiz app.jpg)
+![Quiz Screenshot]https://github.com/Raghav335/Quiz/blob/main/Quiz%20app.jpg)
 
 
 ## ✨ Features
